@@ -9,6 +9,7 @@ The purpose of this project was to gain practical experience with Windows Server
 This lab simulates a small business Windows domain environment and demonstrates common tasks that are relevant to entry-level IT Support, Help Desk, Desktop Support, and Junior Systems Administration roles.
 
 ## Lab Environment
+<img width="1111" height="549" alt="Server Manager" src="https://github.com/user-attachments/assets/7975902a-6e64-405c-948e-1da23da7e419" />
 
 - Microsoft Azure
 - Windows Server 2025 Datacenter: Azure Edition
