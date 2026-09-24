@@ -37,6 +37,8 @@ This lab simulates a small business Windows domain environment and demonstrates 
 - Basic networking concepts
 
 ## Active Directory Configuration
+<img width="755" height="510" alt="Active Directory Structure" src="https://github.com/user-attachments/assets/c3a8c13d-6811-4856-8af3-811748176b2d" />
+
 
 The Windows Server was configured as a Domain Controller for the `monroetech.local` domain.
 
@@ -108,7 +110,9 @@ This lab gave me hands-on practice with:
 
 ## Screenshots
 
-Screenshots documenting the lab will be added below.
+<img width="1366" height="484" alt="Jordans AD account" src="https://github.com/user-attachments/assets/763cea45-bac6-4808-9c41-001a4c6d9194" />
+<img width="677" height="280" alt="Power shell account disabled" src="https://github.com/user-attachments/assets/b4472c7f-8ead-42cd-9033-83260303377e" />
+
 
 ### Server Manager
 
